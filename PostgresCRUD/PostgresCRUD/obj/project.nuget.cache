@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "otHFajDn2EEMlydf915abFjqFSuJQWfLNSa+VcDnHpZFfWcNecNezw4YJJeWLAd/7P6wymyojLF1Dfe6C771MA==",
+  "success": true,
+  "projectFilePath": "/Users/colinbiros/Documents/csharp/PostgresCRUD/PostgresCRUD/PostgresCRUD.csproj",
+  "expectedPackageFiles": [
+    "/Users/colinbiros/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/colinbiros/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/colinbiros/.nuget/packages/npgsql/8.0.2/npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
