@@ -43,7 +43,7 @@ public class Data
     /* Set Up postgres connection */
     public static async void PostgresSetUp()
     {
-        const string ConnectionString = "Host=localhost;Username=postgres;Password=#c#bzziiro4.15kd";
+        const string ConnectionString = "";
         await using var connection = new NpgsqlConnection(ConnectionString);
         connection.Open();
     }
